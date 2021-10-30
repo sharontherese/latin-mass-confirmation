@@ -2,7 +2,7 @@
 title: Veni Creator Spiritus
 summary: Information on the sequence Veni Creator Spiritus
 tags:
-- planning
+- 
 date: ""
 
 # Optional external URL for project (replaces project detail page).
