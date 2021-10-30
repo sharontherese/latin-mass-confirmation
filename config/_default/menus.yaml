@@ -8,7 +8,7 @@ main:
     url: '#featured'
     weight: 10
   - name: Planning
-    url: '#featured'
+    url: '#planning'
     weight: 20
   - name: Contact
     url: '#contact'
