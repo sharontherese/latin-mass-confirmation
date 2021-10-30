@@ -5,7 +5,7 @@
 
 main:
   - name: Rite of Confirmation
-    url: '#featured'
+    url: '#rites'
     weight: 10
   - name: Planning
     url: '#planning'
