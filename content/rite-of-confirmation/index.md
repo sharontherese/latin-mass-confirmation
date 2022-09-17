@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_artwork citation_
+_Giuseppe Maria Crespi, Confirmation (1712)_
 
 # About
 
