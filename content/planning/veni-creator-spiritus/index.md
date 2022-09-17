@@ -1,6 +1,6 @@
 ---
 title: Veni Creator Spiritus
-summary: Information on the sequence Veni Creator Spiritus
+summary: Information on the hymn Veni Creator Spiritus
 tags:
 - 
 date: ""
