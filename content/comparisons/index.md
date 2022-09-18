@@ -25,7 +25,7 @@ Interestingly, both rites are about the same length (about 900 words), but there
 
 # My comparison 
 
-* {{% staticref "files/Comparison_Confirmation_vernacular.pdf" %}} View PDF here{{% /staticref %}}
+* {{% staticref "files/Compare_Confirmation_vernacular.pdf" %}} View PDF here{{% /staticref %}}
 
 # Other comparisons
 
