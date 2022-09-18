@@ -8,17 +8,17 @@ toggle = false
 
 _Titian, "Pentecost," (16th century)_
 
-# The Catholic Encyclopedia
+# From the Catholic Encyclopedia
 
 It has been variously designated: bebaiosis or confirmatio, a making fast or sure; teleiosis or consummatio, a perfecting or completing, as expressing its relation to baptism. With reference to its effect it is the "Sacrament of the Holy Ghost", the "Sacrament of the Seal" (signaculum, sigillum, sphragis). From the external rite it is known as the "imposition of hands" (epithesis cheiron), or as "anointing with chrism" (unctio, chrismatio, chrisma, myron). The names at present in use are, for the Western Church, confirmatio, and for the Greek, to myron.
 
 In the Western Church the sacrament is usually administered by the bishop. At the beginning of the ceremony there is a general imposition of hands, the bishop meantime praying that the Holy Ghost may come down upon those who have already been regenerated: "send forth upon them thy sevenfold Spirit the Holy Paraclete." He then anoints the forehead of each with chrism saying: "I sign thee with the sign of the cross and confirm thee with the chrism of salvation, in the name of the Father and of the Son and of the Holy Ghost." Finally, he gives each a slight blow on the cheek saying: "peace be with thee". A prayer is added that the Holy Spirit may dwell in the hearts of those who have been confirmed, and the rite closes with the bishop's blessing...[^1]
 
-# The Catechism of Trent 
+# From the Catechism of Trent 
 
 If ever there was a time that demanded the assiduity of the pastor in explaining the Sacrament of Confirmation, it is doubtless the present, when there are found in the Church of God many by whom it is altogether omitted; whilst very few study to derive from it the fruit of divine grace, which its worthy reception imparts. That this divine blessing, therefore, may not these days seem through their fault, and to the serious injury of their immortal souls, to have been conferred in vain, the faithful are to be instructed, on Whitsunday, and on such other days as the pastor shall deem convenient, in the nature, efficacy, and dignity of this Sacrament; so as to make them sensible that not only is it not to be neglected, but that it is to be approached with the greatest reverence and devotion...[^2]
 
-# The Baltimore Catechism
+# From the Baltimore Catechism
 
 **What is Confirmation?**
 
@@ -73,6 +73,10 @@ After we have been confirmed, we should continue to study our religion even more
 **Why should all Catholics be confirmed?**
 
 All Catholics should be confirmed in order to be strengthened against the dangers to salvation and to be prepared better to defend their Catholic faith.
+
+# Gifts of the Holy Spirit
+
+![](/uploads/dominus_vobiscum.png)
 
 # Sources
 
