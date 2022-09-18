@@ -12,7 +12,11 @@ _Giuseppe Maria Crespi, Confirmation (1712)_
 
 The Latin and English texts come from Father Phillip T. Weller's _Roman Ritual_, volume III. 
 
-You may also find the traditional Rite of Confirmation in the _Pontificale Romanum_, and many rituals, such as the _Lay Folk's Ritual_. 
+You may also find the traditional Rite of Confirmation in the following places:
+
+* [Fish Eaters](https://www.fisheaters.com/confirmation.html)
+* many rituals, like the _Lay Folk's Ritual_
+* the _Pontificale Romanum_
 
 # Latin 
 
