@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+_Giotto, Pentecost (14th century)_
+
 # About 
 
 The Rite of Confirmation was changed dramatically after 1969. 
