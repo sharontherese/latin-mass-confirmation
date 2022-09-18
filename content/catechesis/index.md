@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Titian, "Pentecost," (16th century)
+_Titian, "Pentecost," (16th century)_
 
 # The Catholic Encyclopedia
 
