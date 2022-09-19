@@ -21,7 +21,7 @@ In the meantime, we can compare the old and new English texts for the Rite of Co
 
 I haven't changed any part of the text, but I have taken several liberties with formatting in order to make a visual comparison. 
 
-Sections in red are texts/rubrics removed in the new rite; section in green are texts/rubrics added in the new rite. As a disclaimer, the nissing texts/rubrics may appear elsewhere in the Novus Ordo _Ritual Mass for the Conferral of Confirmation_. It is difficult to compare traditional vs. Novus Ordo ritual texts after a certain point, because of the number of options available in the Novus Ordo rites.
+Sections in red are texts/rubrics removed in the new rite; section in green are texts/rubrics added in the new rite. As a disclaimer, the missing texts/rubrics may appear elsewhere in the Novus Ordo _Ritual Mass for the Conferral of Confirmation_. It is difficult to compare traditional vs. Novus Ordo ritual texts after a certain point, because of the number of options available in the Novus Ordo rites.
 
 # My comparison 
 
