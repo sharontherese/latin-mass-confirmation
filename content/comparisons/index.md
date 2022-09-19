@@ -21,7 +21,7 @@ In the meantime, we can compare the old and new English texts for the Rite of Co
 
 I haven't changed any part of the text, but I have taken several liberties with formatting in order to make a visual comparison. 
 
-I have  highlighted in yellow the relatively rare instances of of partial similarity in the rites.
+Sections in red are texts/rubrics removed in the new rite; section in green are texts/rubrics added in the new rite. As a disclaimer, the nissing texts/rubrics may appear elsewhere in the Novus Ordo _Ritual Mass for the Conferral of Confirmation_. It is difficult to compare traditional vs. Novus Ordo ritual texts after a certain point, because of the number of options available in the Novus Ordo rites.
 
 # My comparison 
 
@@ -41,10 +41,8 @@ I have  highlighted in yellow the relatively rare instances of of partial simila
 
 * In the new rite, the chrism does not have to be olive oil.[^1]
 * The new rite removes the rubrics regarding the order of confirmandi (first men, then women).
-* THe new rite removes the bishop's/priest's light slap on the newly confirmed's cheek. 
+* The new rite removes the bishop's/priest's light slap on the newly confirmed's cheek. 
 * The new rite removes the rubrics that remind the sponsors of their obligations.
-
-As a disclaimer, the nissing texts/rubrics may appear elsewhere in the Novus Ordo _Ritual Mass for the Conferral of Confirmation_. It is difficult to compare traditional vs. Novus Ordo ritual texts after a certain point, because of the number of options available in the Novus Ordo rites.
 
 # Other comparisons
 
