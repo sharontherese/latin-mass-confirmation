@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Giotto, Pentecost (14th century)_
+_Jacques Dumont, The Sacrament of Confirmation (18th century)_
 
 # About 
 
