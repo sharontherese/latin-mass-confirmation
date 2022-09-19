@@ -72,7 +72,7 @@ highlight_name: true
 
 Welcome! This website provides the essential texts for traditional Catholic confirmations.
 
-_Miniature of a bishop conducting the sacrament of confirmation within his cathedral. Pontifical, Egerton 1067, f. 12. https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=18514_
+_Miniature of a bishop conducting the sacrament of confirmation within his cathedral. Pontifical, Egerton 1067, f. 12._ [Link.](https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=18514)
 
 Learn more about traditional Catholic sacraments:
 
