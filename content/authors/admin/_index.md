@@ -72,6 +72,8 @@ highlight_name: true
 
 Welcome! This website provides the essential texts for traditional Catholic confirmations.
 
+_Miniature of a bishop conducting the sacrament of confirmation within his cathedral. Pontifical, Egerton 1067, f. 12. https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=18514_
+
 Learn more about traditional Catholic sacraments:
 
 [Latin Mass Baptism](https://www.latinmassbaptism.com/) | [Latin Mass Wedding](https://www.latinmasswedding.com/) | [Latin Mass Funeral](https://www.latinmassfuneral.com/)
