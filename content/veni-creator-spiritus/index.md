@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Jean Restout, Pentecost (1732)_
+_Rogier van der Weyden, detail of the Seven Sacraments altarpiece (15th century)_
 
 # About 
 
