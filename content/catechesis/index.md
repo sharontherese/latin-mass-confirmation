@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Titian, "Pentecost," (16th century)_
+_Nicholas Poussin, Confirmation (17th century)_
 
 # From the Catholic Encyclopedia
 
