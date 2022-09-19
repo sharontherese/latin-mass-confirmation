@@ -20,22 +20,22 @@ _Nicholas Poussin, Confirmation (17th century)_
 
 # From the Baltimore Catechism
 
-**What is Confirmation?**
-
-Confirmation is the sacrament through which the Holy Ghost comes to us in a special way and enables us to profess our faith as strong and perfect Christians and soldiers of Jesus Christ.
-
-But I speak the truth to you; it is expedient for you that I depart. For if I do not go, the Advocate will not come to you. (John 16:7)
-
-**Who is the usual minister of Confirmation?**
-
-The bishop is the usual minister of Confirmation.
-
-**What does the bishop do when he gives Confirmation?**
-
-The bishop extends his hands over those who are to be confirmed, prays that they may receive the Holy Ghost, and, while laying his hand on the head of each person, anoints the forehead with holy chrism in the form of a cross. "And when Paul had imposed his hands on them, the Holy Ghost came upon them, and they spoke with tongues and prophesied." (Acts 19:6)
-
-**What does the bishop say in anointing the person he confirms?**
-
+> **What is Confirmation?**
+> 
+> Confirmation is the sacrament through which the Holy Ghost comes to us in a special way and enables us to profess our faith as strong and perfect Christians and soldiers of Jesus Christ.
+> 
+> But I speak the truth to you; it is expedient for you that I depart. For if I do not go, the Advocate will not come to you. (John 16:7)
+> 
+> **Who is the usual minister of Confirmation?**
+> 
+> The bishop is the usual minister of Confirmation.
+> 
+> **What does the bishop do when he gives Confirmation?**
+> 
+> The bishop extends his hands over those who are to be confirmed, prays that they may receive the Holy Ghost, and, while laying his hand on the head of each person, anoints the forehead with holy chrism in the form of a cross. "And when Paul had imposed his hands on them, the Holy Ghost came upon them, and they spoke with tongues and prophesied." (Acts 19:6)
+> 
+> **What does the bishop say in anointing the person he confirms?**
+> 
 > In anointing the person he confirms, the bishop says: "I sign you with the sign of the cross and I confirm you with the chrism of salvation, in the name of the Father, and of the Son, and of the Holy Ghost."
 > 
 > **What is holy chrism?**
