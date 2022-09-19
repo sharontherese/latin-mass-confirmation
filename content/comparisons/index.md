@@ -25,7 +25,9 @@ I have  highlighted in yellow the relatively rare instances of of partial simila
 
 # My comparison 
 
-* {{% staticref "uploads/Compare_Confirmation_vernacular.pdf" "newtab" %}}View PDF here{{% /staticref %}} 
+* {{% staticref "uploads/Compare_Confirmation_vernacular_doc.pdf" "newtab" %}}View as PDF{{% /staticref %}} 
+
+![](/uploads/Compare_Confirmation_vernacular.png)
 
 ## Some textual differences 
 
