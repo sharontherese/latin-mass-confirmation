@@ -8,6 +8,11 @@ toggle = false
 
 _Nicholas Poussin, Confirmation (17th century)_
 
+# Test 
+
+{{< table path="periti_data.csv" header="true" caption="Table 1: Periti" >}}
+
+
 # From the Catholic Encyclopedia
 
 > It has been variously designated: bebaiosis or confirmatio, a making fast or sure; teleiosis or consummatio, a perfecting or completing, as expressing its relation to baptism. With reference to its effect it is the "Sacrament of the Holy Ghost", the "Sacrament of the Seal" (signaculum, sigillum, sphragis). From the external rite it is known as the "imposition of hands" (epithesis cheiron), or as "anointing with chrism" (unctio, chrismatio, chrisma, myron). The names at present in use are, for the Western Church, confirmatio, and for the Greek, to myron.
