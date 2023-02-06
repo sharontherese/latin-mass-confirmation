@@ -8,10 +8,6 @@ toggle = false
 
 _Nicholas Poussin, Confirmation (17th century)_
 
-# Test 
-
-{{< table path="periti_data.csv" header="true" caption="Table 1: Periti" >}}
-
 
 # From the Catholic Encyclopedia
 
