@@ -76,4 +76,4 @@ _Miniature of a bishop conducting the sacrament of confirmation within his cathe
 
 Learn more about traditional Catholic sacraments:
 
-[Latin Mass Baptism](https://www.latinmassbaptism.com/) | [Latin Mass Wedding](https://www.latinmasswedding.com/) | [Latin Mass Funeral](https://www.latinmassfuneral.com/)
+[Latin Mass Baptism](https://www.latinmassbaptism.com/) | [Latin Mass Wedding](https://www.latinmasswedding.com/) | [Latin Mass Funeral](https://www.latinmassfuneral.com/) | [Latin Mass Confirmation](https://www.latinmassconfirmation.com/)
