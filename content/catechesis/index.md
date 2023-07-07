@@ -75,10 +75,6 @@ _Nicholas Poussin, Confirmation (17th century)_
 > 
 > All Catholics should be confirmed in order to be strengthened against the dangers to salvation and to be prepared better to defend their Catholic faith.
 
-# Gifts of the Holy Spirit
-
-![](/uploads/dominus_vobiscum.png)
-
 # Sources
 
 [^1]: Scannell, T. (1908). Confirmation. In The Catholic Encyclopedia. New York: Robert Appleton Company. Retrieved September 17, 2022 from New Advent: http://www.newadvent.org/cathen/04215b.htm
