@@ -51,8 +51,8 @@ Sections in red are texts/rubrics removed in the new rite; section in green are 
 
 # Sources 
 
-[^1]: "The matter for all three oils is olive oil or another plant oil (see OBO, no. 3)." from: USCCB, "The Blessing of the Oils and the Consecration of the Chrism." https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/sacramentals-blessings/blessing-of-oils-and-consecration-of-chrism. 
+[^1]: "The matter for all three oils is olive oil or another plant oil (see OBO, no. 3)." from: USCCB, "The Blessing of the Oils and the Consecration of the Chrism." "The Blessing of the Oils and the Consecration of the Chrism." In The Order of Blessing the Oil of Catechumens and of the Sick and of Consecrating the Chrism United States Council of Catholic Bishops, 2016. https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/sacramentals-blessings/blessing-of-oils-and-consecration-of-chrism
 
-[^2]: https://lms.org.uk/sites/default/files/resource_documents/Rite_of_Confirmation.pdf
+[^2]: "The Rite of Confirmation," The Latin Mass Society of England and Wales, https://lms.org.uk/sites/default/files/resource_documents/Rite_of_Confirmation.pdf.
 
-[^3]: https://liturgicalnotes.blogspot.com/2021/12/the-sacrament-of-confirmation.html?m=1 & https://liturgicalnotes.blogspot.com/2022/02/the-sacrament-of-confirmation-2.html?m=1
+[^3]: Hunwicke, Fr John, "The Sacrament of Confirmation (Part 1)," Fr. Hunwicke's Mutual Enrichment, December 22, 2021, https://liturgicalnotes.blogspot.com/2021/12/the-sacrament-of-confirmation.html?m=1; "The Sacrament of Confirmation (Part 2)," Fr. Hunwicke's Mutual Enrichment, February 3, 2022, https://liturgicalnotes.blogspot.com/2022/02/the-sacrament-of-confirmation-2.html?m=1.
