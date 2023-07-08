@@ -77,6 +77,6 @@ _Nicholas Poussin, Confirmation (17th century)_
 
 # Sources
 
-[^1]: Scannell, T. (1908). Confirmation. In The Catholic Encyclopedia. New York: Robert Appleton Company. Retrieved September 17, 2022 from New Advent: http://www.newadvent.org/cathen/04215b.htm
+[^1]: Scannell, Thomas. "Confirmation." In The Catholic Encyclopedia. New York: Robert Appleton Company, 1908. https://www.newadvent.org/cathen/04215b.htm.
 
-[^2]: https://en.wikisource.org/wiki/The_catechism_of_the_Council_of_Trent/Part_2:_Confirmation
+[^2]: Catholic Church. "Part 2: Confirmation." Translated by James Donovan. In The Catechism of the Council of Trent, 1829. https://en.wikisource.org/wiki/The_catechism_of_the_Council_of_Trent/Part_2:_Confirmation
