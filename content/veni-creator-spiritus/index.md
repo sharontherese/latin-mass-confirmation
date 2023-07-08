@@ -75,6 +75,6 @@ credamus omni tempore.
 
 # Sources 
 
-[^1]: https://www.preces-latinae.org/thesaurus/Hymni/VeniCreator.html
+[^1]: Martin, Michael, "Veni, Creator Spiritus," Preces Latinae, https://www.preces-latinae.org/thesaurus/Hymni/VeniCreator.html.
 
-[^2]: Henry, H. (1912). Veni Creator Spiritus. In The Catholic Encyclopedia. New York: Robert Appleton Company. Retrieved September 16, 2022 from New Advent: http://www.newadvent.org/cathen/15341a.htm
+[^2]: Henry, Hugh. "Veni Creator Spiritus." In The Catholic Encyclopedia. New York: Robert Appleton Company, 1912. https://www.newadvent.org/cathen/15341a.htm.
